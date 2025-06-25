@@ -1,5 +1,5 @@
-<h1 align="center">Desenvolvedor FullStack 👨‍💻</h1>
-<h3 align="center">Olá! Eu sou o Lucas Vargas, apaixonado por tecnologia, inovação e impacto positivo.</h3>
+<h1 align="center">Olá! Eu sou o Lucas Vargas</h1>
+<h3 align="center">Desenvolvedor FullStack 👨‍💻</h3>
 
 ---
 
@@ -40,13 +40,11 @@ Me chamo **Lucas Vargas**, tenho 19 anos e sou de **Sorocaba - SP**. Concluí o 
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Requests" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="BeautifulSoup" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br/>
 <br/>
-
+<br/>
 - 🧱 Desenvolvimento de **APIs REST** com **Node.js (Express)** e **Flask**
 - 🗄️ Bancos de dados:
   - Relacionais: **MariaDB**, **MySQL**
@@ -58,7 +56,7 @@ Me chamo **Lucas Vargas**, tenho 19 anos e sou de **Sorocaba - SP**. Concluí o 
 - 📦 Atualmente estudando **Docker**, **Next.JS** e **Typescript**
 - 📈 Metodologias ágeis (Scrum/Kanban)
 - 🌍 Inglês **intermediário-avançado (B2+)**
-
+<br/>
 <br/>
 <br/>
 
