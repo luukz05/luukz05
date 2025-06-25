@@ -58,8 +58,6 @@ Me chamo **Lucas Vargas**, tenho 19 anos e sou de **Sorocaba - SP**. Concluí o 
 - 📈 Metodologias ágeis (Scrum/Kanban)
 - 🌍 Inglês **intermediário-avançado (B2+)**
 
-<br/>
-
 ---
 
 ### 📊 Estatísticas
