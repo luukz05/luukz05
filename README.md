@@ -45,6 +45,7 @@ Me chamo **Lucas Vargas**, tenho 19 anos e sou de **Sorocaba - SP**. Concluí o 
 <br/>
 <br/>
 <br/>
+
 - 🧱 Desenvolvimento de **APIs REST** com **Node.js (Express)** e **Flask**
 - 🗄️ Bancos de dados:
   - Relacionais: **MariaDB**, **MySQL**
@@ -56,7 +57,7 @@ Me chamo **Lucas Vargas**, tenho 19 anos e sou de **Sorocaba - SP**. Concluí o 
 - 📦 Atualmente estudando **Docker**, **Next.JS** e **Typescript**
 - 📈 Metodologias ágeis (Scrum/Kanban)
 - 🌍 Inglês **intermediário-avançado (B2+)**
-<br/>
+
 <br/>
 <br/>
 
