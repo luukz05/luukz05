@@ -92,20 +92,6 @@ Já participei do bootcamp imersivo no **Kennedy Space Center International Acad
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| 🔐 **[DVGC](https://github.com/luukz05/DVGC)** | Smart city: detector de vazamento de GLP com alerta em tempo real. Selecionado pelo **SEBRAE**. | React Native · Node · ESP32 · IoT |
-| 🚦 **[Urbanflow](https://github.com/luukz05/Urbanflow)** | Visão computacional que prioriza semáforos para veículos de emergência. | Python · YOLO · OpenCV · ESP32 |
-| ♻️ **[ReMatch](https://github.com/luukz05/ReMatch)** | Economia circular com matchmaking entre pessoas e empresas. | React · Node · MongoDB |
-| 🎮 **[FURIA.QG](https://furiaqg.netlify.app/)** | Experiência gamificada com ranking, auth e IA/OCR. | React · Flask · MongoDB |
-| 🛒 **[3D Todesco](https://3dtodesco.shop/)** | Primeiro freela: catálogo com carrinho via WhatsApp. | Next.js · Flask · MongoDB |
-
-> 🌎 Veja todos no **[meu portfólio](https://luukz05.github.io/Portfolio/)**
-
----
-
 ## 📊 Estatísticas
 
 <p align="center">
