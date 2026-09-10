@@ -19,7 +19,7 @@
 
 ## 👨‍🚀 Sobre mim
 
-Lucas Vargas · 20 anos · Sorocaba - SP
+Lucas Vargas · 21 anos · Sorocaba - SP
 Engenharia da Computação @ FACENS
 
 Concluí o ensino técnico em **desenvolvimento de jogos e web** e hoje curso **Engenharia da Computação na FACENS**. Atuo entre **front-end, full stack, mobile e IoT**, sempre buscando consistência visual, boa estrutura técnica e produtos pensados com intenção — não montados por partes.
